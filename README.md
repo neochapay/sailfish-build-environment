@@ -54,6 +54,6 @@ The Additional bash functions it provides are:
 ### More info:
 
 * [Sailfish HADK](https://sailfishos.org/develop/hadk/)
-* [Sailfish HADK FAQ](http://piratepad.net/hadk-faq-v2)
+* [Sailfish HADK FAQ](https://public.etherpad-mozilla.org/p/faq-hadk)
 
 Thanks a ton to #saiflishos-porters on freenode
